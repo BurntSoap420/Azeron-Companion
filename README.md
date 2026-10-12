@@ -132,9 +132,9 @@ Tick **Heatmap** to colour the buttons by how often you press them. While it is 
 
 ## WoW spell icons (optional)
 
-1. Install the **Azeron Companion** addon from CurseForge. In-game it is called *Azeron Bridge*.
+1. On CurseForge, search for **Azeron Companion** and install the addon.
 2. In Companion: **Advanced**, then tick **Show WoW spell icons in overlay**.
-3. In WoW: Options, Keybindings, AddOns, Azeron Bridge. Bind a key to **Reload UI**, then type `/reload` once.
+3. In WoW: Options, Keybindings, AddOns. Under the Azeron heading, bind a key to **Reload UI**, then type `/reload` once.
 
 Icons refresh each time you `/reload`.
 
